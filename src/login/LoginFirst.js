@@ -40,8 +40,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#00CCF9',
-    // backgroundColor: linear-gradient('#00CCF9','#00CCF9'),
+    // backgroundColor: '#00CCF9',
     alignItems: 'center',
     flexDirection: 'column'
   },

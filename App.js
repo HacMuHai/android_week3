@@ -1,12 +1,12 @@
 import React from "react";
-import Login1_b from './src/login/Login1_c' ;
-import { StyleSheet,View,Text } from 'react-native';
+import Login1_e from './src/login/Login1_e' ;
+import { StyleSheet,View } from 'react-native';
 
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Login1_b/>
+      <Login1_e/>
     </View>
     
   );
